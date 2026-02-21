@@ -132,7 +132,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/glpiED0.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -165,7 +165,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/2eXTesz.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -200,7 +200,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/fQKjauW.png" height="80%" width="80%" />
 
 
 
@@ -249,7 +249,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/1JfbpH5.png" height="80%" width="80%" />
 
 
 
@@ -283,7 +283,7 @@ DeviceFileEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/yw1Yg4j.png" height="80%" width="80%" />
 
 
 
@@ -318,7 +318,7 @@ DeviceFileEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/prYcLQB.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -351,7 +351,7 @@ DeviceNetworkEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/5ak7Vbh.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -383,7 +383,7 @@ DeviceRegistryEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/k2r4q3H.png" height="80%" width="80%" />
 
 
 
@@ -421,7 +421,7 @@ The returned an action with the ProcessCommandLine of:
 
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/fJ5jd68.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -454,7 +454,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/zMeLbD7.png" height="80%" width="80%" />
 
 
 
@@ -487,7 +487,7 @@ DeviceFileEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/Hy51dd2.png" height="80%" width="80%" />
 
 
 
@@ -524,7 +524,7 @@ And the ProcessCommandLine is
 "notepad.exe" C:\Users\5y51-D3p7\HR\PerformanceReviews\Review_JavierR.lnk
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/w89ugKN.png" height="80%" width="80%" />
 
 
 
@@ -564,7 +564,7 @@ I found the file BonusMatrix_Q4_Approved.xlsx
 Which happened at 2025-12-03T07:25:39.1653621Z
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/SoHLn9t.png" height="80%" width="80%" />
 
 
 
@@ -603,7 +603,7 @@ DeviceFileEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/LnS9yqI.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -635,7 +635,7 @@ DeviceNetworkEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/1SMJjZw.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -676,7 +676,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/9hdjNJq.png" height="80%" width="80%" />
 
 
 
@@ -724,7 +724,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/q1DD5lY.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -761,7 +761,7 @@ DeviceEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/HgLV7vt.png" height="80%" width="80%" />
 
 
 
@@ -788,7 +788,7 @@ Identifies the specific compromised machine/account used for the server-side the
 For this one I just used the suspicious looking RemoteSessionDeviceName I had seen accessing this device. I did not do a KQL looking specifically for access to a scorecard file, but used the last one
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/rBqTWqx.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
@@ -826,7 +826,7 @@ DeviceFileEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/HdsSWsW.png" height="80%" width="80%" />
 
 
 
@@ -901,7 +901,7 @@ DeviceNetworkEvents
 ```
 
 ### 🖼️ Screenshot
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/dWoFoeq.png" height="80%" width="80%" />
 
 
 ### 🛠️ Detection Recommendation
